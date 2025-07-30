@@ -11,5 +11,5 @@ Assignments for the NLP course at UU.
 
 **Assignment 2:** NLP Tasks
 1. Constituency parsing with CKY
-2. Word sense disambiguation
+2. Word sense disambiguation with BERT
 3. Generalization & explainability (CoT vs No-CoT)
